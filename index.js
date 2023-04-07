@@ -139,5 +139,5 @@ searchUser.addEventListener('keyup', async (event) => {
             ui.clearProfile();
         }
 
-    }, 500);
+    }, 650);
 })
